@@ -73,3 +73,24 @@ h1 {
 p {
     font-family: "ABeeZee"
 }
+
+/* Nav buttons */
+.nav {
+    text-align: center;
+    padding: 3em;
+}
+.nav .navbutton {
+    padding: .4em;
+    min-width: 10em;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #d64078;
+    border-radius: .3em;
+    color: white;
+    margin: 0em .5em;
+}
+
+footer {
+    height: 100px;
+    background: #eee;
+}

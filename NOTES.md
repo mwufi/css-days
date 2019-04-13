@@ -22,3 +22,7 @@ Making this more efficient:
 * Automatically extract fonts, colors from a webpage
 * Variables - learn SASS. or something
 * variables for content too. I can totally see why people want to **start** with React or Vue :)
+
+Todo:
+
+* Make it interactive! Add a button to show/remove CSS styles. Make it so that when you hover over certain elements it adds the `elem border` class and highlights it in green! (that'd be *cool*)
