@@ -26,3 +26,17 @@ Making this more efficient:
 Todo:
 
 * Make it interactive! Add a button to show/remove CSS styles. Make it so that when you hover over certain elements it adds the `elem border` class and highlights it in green! (that'd be *cool*)
+
+# April 13
+
+1. Buttons from this website: https://www.takeshape.io/
+
+Problems:
+
+* `padding` - I had the wrong fonts, so figuring out why mine looked different was challenging...
+
+Things I learned:
+
+* You have to load specific weights of your fonts!!
+* Also, `flexbox` is handy
+
