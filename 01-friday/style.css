@@ -1,0 +1,75 @@
+
+/* -------------- BODY ------------- */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+}
+
+/* -------------- LAYOUT ------------- */
+
+/* center the main content */
+.content {
+    margin: 1em auto;
+    max-width: 600px;
+}
+
+/* nice frame around the page */
+#container {
+    margin: 1em;
+}
+
+/* this causes the *outside* of the box to fit in the box
+   so everything lines up
+*/
+* {
+    box-sizing: border-box;
+}
+
+/* -------------- ELEMENTS ------------- */
+
+/* the green box requires a lot of cSS */
+.border {
+    border: 4px solid #6AC5AC;
+    position: relative;
+}
+
+.elem > p {
+    padding: 0em 1em;
+}
+
+.label {
+    line-height: 1em;
+    position: absolute;
+    background: #6AC5AC;
+}
+
+.before {
+    top: 0px;
+    left: 0px;
+    padding: 0px 4px 4px 0px;
+}
+
+.after {
+    right: 0px;
+    bottom: 0px;
+    padding: 4px 0px 0px 4px;
+}
+
+/* makes the divs not overlap with each other! magic! */
+.elem-inline .before, .elem-inline .after {
+    position: static;
+}
+
+/* typography */
+h1, h2 {
+    font-family: "Cute Font", serif;
+}
+h2 {
+    font-size: 2em;
+}
+h1 {
+    font-size: 3em;
+}
+p {
+    font-family: "ABeeZee"
+}
