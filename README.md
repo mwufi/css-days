@@ -4,7 +4,7 @@ What's this? It's a thing where I design a new webpage every day! Starting from 
 
 ## Why?
 
-I've been waanting to actually learn how to design things, and to feel *confident* (someone insert some fire emojis here w/ a pull request) in building things that I can see! So, here's something that I can do about it!
+I've been waanting to actually learn how to design things, and to feel *confident* :fire: :fire: :fire: in building things that I can see! So, here's something that I can do about it!
 
 ## I want to follow along!
 
