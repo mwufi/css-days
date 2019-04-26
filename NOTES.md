@@ -40,3 +40,12 @@ Things I learned:
 * You have to load specific weights of your fonts!!
 * Also, `flexbox` is handy
 
+# April 19
+
+Taking the HTML from https://sass-lang.com/guide and trying to style it. How do you know what to make of the HTML structure?
+
+I guess the short answer is you *start* from what you want it to look like, and then build it. So we could do that.
+
+# April 26
+
+Originally planned to make something with canvas and SVG.
